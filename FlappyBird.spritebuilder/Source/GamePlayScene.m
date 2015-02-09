@@ -23,7 +23,7 @@
     if(timeSinceObstacle>2.0f)
     {
         //Add a new obstacle
-        [self addObstacle];
+        //[self addObstacle];
         
         //then reset the timer
         timeSinceObstacle = 0.0f;
